@@ -10,7 +10,7 @@ After working closely with exerimentalists on the challenges of post-acquisition
 [ORCID](https://orcid.org/0000-0002-4903-8304)
 
 
-Publications: {cite:t}`Torro2025`, {cite:t}`Demeautis2017`:
+Publications: {cite:t}`Torro2025`:
 
 ```{bibliography}
 :style: plain
